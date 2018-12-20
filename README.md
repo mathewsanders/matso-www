@@ -1,2 +1,2 @@
-# matsu.club
-Website for matsu.club
+# matso.club
+Website for matso.club
